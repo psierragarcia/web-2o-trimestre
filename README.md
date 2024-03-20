@@ -68,3 +68,4 @@ También es responsive, lo que significa que se adapta a diferentes tipos de dis
 ![10](https://i.imgur.com/ejIsUIY.png)
 ![11](https://i.imgur.com/RmyR4IF.png)
 
+En resumen y hablando de la interactividad, los principales puntos que se demandaban en la rúbrica se han cumplido, como se ha podido ver en la documentación. Por esto creo que, aunque siendo mejorable, la web es correcta dentro que lo que se pedía hacer.
